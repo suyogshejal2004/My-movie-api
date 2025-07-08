@@ -1,7 +1,7 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; // <-- required for Render
 
 // Load movie data from movies.json
 const movies = JSON.parse(fs.readFileSync('movies.json', 'utf-8'));
