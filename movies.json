@@ -1,0 +1,3912 @@
+[
+  {
+    "id": 1,
+    "title": "Batman Begins",
+    "genre": "Thriller, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 43min",
+    "releaseDate": "2021-04-11",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_1.jpg",
+    "story": "Batman Begins is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=batmanbeginstamil",
+      "English": "https://www.youtube.com/watch?v=batmanbeginsenglish",
+      "Malayalam": "https://www.youtube.com/watch?v=batmanbeginsmalayalam"
+    },
+    "recommended": [
+      98,
+      81,
+      23
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Article 15",
+    "genre": "Horror, Thriller",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 50min",
+    "releaseDate": "2021-06-15",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_2.jpg",
+    "story": "Article 15 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=article15telugu",
+      "English": "https://www.youtube.com/watch?v=article15english",
+      "Tamil": "https://www.youtube.com/watch?v=article15tamil"
+    },
+    "recommended": [
+      11,
+      40,
+      28
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pushpa",
+    "genre": "Sci-Fi, Action",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 33min",
+    "releaseDate": "2021-12-11",
+    "availableLanguages": [
+      "Kannada",
+      "English",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_3.jpg",
+    "story": "Pushpa is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=pushpahindi",
+      "Kannada": "https://www.youtube.com/watch?v=pushpakannada",
+      "Malayalam": "https://www.youtube.com/watch?v=pushpamalayalam"
+    },
+    "recommended": [
+      53,
+      43,
+      91
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Conjuring 3",
+    "genre": "Drama, Horror",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 29min",
+    "releaseDate": "2020-04-22",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_4.jpg",
+    "story": "Conjuring 3 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=conjuring3tamil",
+      "Kannada": "https://www.youtube.com/watch?v=conjuring3kannada",
+      "Malayalam": "https://www.youtube.com/watch?v=conjuring3malayalam"
+    },
+    "recommended": [
+      57,
+      75,
+      2
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Black Panther",
+    "genre": "Mystery, Horror",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 47min",
+    "releaseDate": "2022-08-15",
+    "availableLanguages": [
+      "Hindi",
+      "Kannada",
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_5.jpg",
+    "story": "Black Panther is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=blackpanthertelugu",
+      "English": "https://www.youtube.com/watch?v=blackpantherenglish",
+      "Hindi": "https://www.youtube.com/watch?v=blackpantherhindi"
+    },
+    "recommended": [
+      14,
+      53,
+      22
+    ]
+  },
+  {
+    "id": 6,
+    "title": "RRR",
+    "genre": "Sci-Fi, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 46min",
+    "releaseDate": "2022-05-30",
+    "availableLanguages": [
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_6.jpg",
+    "story": "RRR is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=rrrhindi",
+      "Tamil": "https://www.youtube.com/watch?v=rrrtamil",
+      "Telugu": "https://www.youtube.com/watch?v=rrrtelugu"
+    },
+    "recommended": [
+      10,
+      12,
+      24
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Captain Marvel",
+    "genre": "Action, Sci-Fi",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 58min",
+    "releaseDate": "2021-05-15",
+    "availableLanguages": [
+      "English",
+      "Tamil",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_7.jpg",
+    "story": "Captain Marvel is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=captainmarvelenglish",
+      "Tamil": "https://www.youtube.com/watch?v=captainmarveltamil",
+      "Hindi": "https://www.youtube.com/watch?v=captainmarvelhindi"
+    },
+    "recommended": [
+      64,
+      13,
+      60
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Raazi",
+    "genre": "Action, Drama",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "1h 29min",
+    "releaseDate": "2021-02-10",
+    "availableLanguages": [
+      "Tamil",
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_8.jpg",
+    "story": "Raazi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=raazikannada",
+      "English": "https://www.youtube.com/watch?v=raazienglish",
+      "Tamil": "https://www.youtube.com/watch?v=raazitamil"
+    },
+    "recommended": [
+      9,
+      79,
+      36
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Singham",
+    "genre": "Sci-Fi, Thriller",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 30min",
+    "releaseDate": "2020-07-18",
+    "availableLanguages": [
+      "Kannada",
+      "Tamil",
+      "Malayalam",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_9.jpg",
+    "story": "Singham is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=singhamtelugu",
+      "Kannada": "https://www.youtube.com/watch?v=singhamkannada",
+      "English": "https://www.youtube.com/watch?v=singhamenglish"
+    },
+    "recommended": [
+      40,
+      22,
+      29
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Leo",
+    "genre": "Thriller, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "A",
+    "duration": "2h 34min",
+    "releaseDate": "2021-01-09",
+    "availableLanguages": [
+      "Tamil",
+      "English",
+      "Kannada",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_10.jpg",
+    "story": "Leo is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=leotamil",
+      "Hindi": "https://www.youtube.com/watch?v=leohindi",
+      "English": "https://www.youtube.com/watch?v=leoenglish"
+    },
+    "recommended": [
+      70,
+      96,
+      7
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Raazi",
+    "genre": "Mystery, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 48min",
+    "releaseDate": "2023-07-18",
+    "availableLanguages": [
+      "English",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_11.jpg",
+    "story": "Raazi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=raazitamil",
+      "Hindi": "https://www.youtube.com/watch?v=raazihindi",
+      "Malayalam": "https://www.youtube.com/watch?v=raazimalayalam"
+    },
+    "recommended": [
+      65,
+      8,
+      81
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Raazi",
+    "genre": "Action, Horror",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 37min",
+    "releaseDate": "2024-04-26",
+    "availableLanguages": [
+      "Telugu",
+      "Malayalam",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_12.jpg",
+    "story": "Raazi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=raazitamil",
+      "Hindi": "https://www.youtube.com/watch?v=raazihindi",
+      "English": "https://www.youtube.com/watch?v=raazienglish"
+    },
+    "recommended": [
+      75,
+      64,
+      65
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Doctor Strange",
+    "genre": "Thriller, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 35min",
+    "releaseDate": "2022-01-31",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_13.jpg",
+    "story": "Doctor Strange is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=doctorstrangekannada",
+      "Tamil": "https://www.youtube.com/watch?v=doctorstrangetamil",
+      "English": "https://www.youtube.com/watch?v=doctorstrangeenglish"
+    },
+    "recommended": [
+      46,
+      66,
+      16
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Spider-Man: No Way Home",
+    "genre": "Thriller, Horror",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "A",
+    "duration": "2h 27min",
+    "releaseDate": "2020-08-20",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_14.jpg",
+    "story": "Spider-Man: No Way Home is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=spider-man:nowayhomehindi",
+      "Kannada": "https://www.youtube.com/watch?v=spider-man:nowayhomekannada",
+      "Telugu": "https://www.youtube.com/watch?v=spider-man:nowayhometelugu"
+    },
+    "recommended": [
+      28,
+      42,
+      48
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Black Panther",
+    "genre": "Drama, Comedy",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 37min",
+    "releaseDate": "2020-12-19",
+    "availableLanguages": [
+      "English",
+      "Telugu",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_15.jpg",
+    "story": "Black Panther is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=blackpanthermalayalam",
+      "Tamil": "https://www.youtube.com/watch?v=blackpanthertamil",
+      "English": "https://www.youtube.com/watch?v=blackpantherenglish"
+    },
+    "recommended": [
+      89,
+      37,
+      21
+    ]
+  },
+  {
+    "id": 16,
+    "title": "KGF",
+    "genre": "Horror, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 32min",
+    "releaseDate": "2023-05-28",
+    "availableLanguages": [
+      "Telugu",
+      "Tamil",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_16.jpg",
+    "story": "KGF is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=kgfhindi",
+      "Tamil": "https://www.youtube.com/watch?v=kgftamil",
+      "Telugu": "https://www.youtube.com/watch?v=kgftelugu"
+    },
+    "recommended": [
+      82,
+      7,
+      56
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Article 15",
+    "genre": "Thriller, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 54min",
+    "releaseDate": "2023-03-30",
+    "availableLanguages": [
+      "Malayalam",
+      "English",
+      "Kannada",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_17.jpg",
+    "story": "Article 15 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=article15tamil",
+      "Kannada": "https://www.youtube.com/watch?v=article15kannada",
+      "Malayalam": "https://www.youtube.com/watch?v=article15malayalam"
+    },
+    "recommended": [
+      44,
+      42,
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Batman Begins",
+    "genre": "Mystery, Thriller",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 42min",
+    "releaseDate": "2020-05-12",
+    "availableLanguages": [
+      "English",
+      "Kannada",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_18.jpg",
+    "story": "Batman Begins is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=batmanbeginstamil",
+      "Malayalam": "https://www.youtube.com/watch?v=batmanbeginsmalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=batmanbeginshindi"
+    },
+    "recommended": [
+      15,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Jawan",
+    "genre": "Comedy, Horror",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 52min",
+    "releaseDate": "2020-03-30",
+    "availableLanguages": [
+      "English",
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_19.jpg",
+    "story": "Jawan is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=jawanmalayalam",
+      "English": "https://www.youtube.com/watch?v=jawanenglish",
+      "Telugu": "https://www.youtube.com/watch?v=jawantelugu"
+    },
+    "recommended": [
+      7,
+      12,
+      13
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Sooryavanshi",
+    "genre": "Thriller, Action",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 28min",
+    "releaseDate": "2022-01-01",
+    "availableLanguages": [
+      "Malayalam",
+      "Tamil",
+      "English",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_20.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=sooryavanshitelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=sooryavanshimalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=sooryavanshihindi"
+    },
+    "recommended": [
+      74,
+      38,
+      96
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Major",
+    "genre": "Comedy, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "2h 41min",
+    "releaseDate": "2020-11-14",
+    "availableLanguages": [
+      "Hindi",
+      "Kannada",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_21.jpg",
+    "story": "Major is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=majormalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=majorhindi",
+      "English": "https://www.youtube.com/watch?v=majorenglish"
+    },
+    "recommended": [
+      7,
+      95,
+      77
+    ]
+  },
+  {
+    "id": 22,
+    "title": "RRR",
+    "genre": "Romance, Comedy",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 29min",
+    "releaseDate": "2021-05-12",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_22.jpg",
+    "story": "RRR is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=rrrkannada",
+      "Hindi": "https://www.youtube.com/watch?v=rrrhindi",
+      "Tamil": "https://www.youtube.com/watch?v=rrrtamil"
+    },
+    "recommended": [
+      18,
+      92,
+      17
+    ]
+  },
+  {
+    "id": 23,
+    "title": "RRR",
+    "genre": "Horror, Thriller",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 28min",
+    "releaseDate": "2020-08-29",
+    "availableLanguages": [
+      "English",
+      "Kannada",
+      "Malayalam",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_23.jpg",
+    "story": "RRR is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=rrrhindi",
+      "Telugu": "https://www.youtube.com/watch?v=rrrtelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=rrrmalayalam"
+    },
+    "recommended": [
+      2,
+      42,
+      53
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Tenet",
+    "genre": "Romance, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "1h 30min",
+    "releaseDate": "2020-09-03",
+    "availableLanguages": [
+      "English",
+      "Tamil",
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_24.jpg",
+    "story": "Tenet is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=tenettelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=tenetmalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=tenethindi"
+    },
+    "recommended": [
+      65,
+      91,
+      75
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Singham",
+    "genre": "Horror, Action",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 31min",
+    "releaseDate": "2024-03-22",
+    "availableLanguages": [
+      "Kannada",
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_25.jpg",
+    "story": "Singham is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=singhamenglish",
+      "Kannada": "https://www.youtube.com/watch?v=singhamkannada",
+      "Hindi": "https://www.youtube.com/watch?v=singhamhindi"
+    },
+    "recommended": [
+      66,
+      94,
+      58
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Andhadhun",
+    "genre": "Drama, Romance",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 58min",
+    "releaseDate": "2024-11-10",
+    "availableLanguages": [
+      "Hindi",
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_26.jpg",
+    "story": "Andhadhun is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=andhadhuntamil",
+      "English": "https://www.youtube.com/watch?v=andhadhunenglish",
+      "Kannada": "https://www.youtube.com/watch?v=andhadhunkannada"
+    },
+    "recommended": [
+      38,
+      65,
+      89
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Sooryavanshi",
+    "genre": "Sci-Fi, Thriller",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 29min",
+    "releaseDate": "2022-09-02",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_27.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=sooryavanshitamil",
+      "Hindi": "https://www.youtube.com/watch?v=sooryavanshihindi",
+      "Malayalam": "https://www.youtube.com/watch?v=sooryavanshimalayalam"
+    },
+    "recommended": [
+      21,
+      44,
+      83
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Batla House",
+    "genre": "Action, Sci-Fi",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 43min",
+    "releaseDate": "2020-09-02",
+    "availableLanguages": [
+      "Malayalam",
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_28.jpg",
+    "story": "Batla House is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=batlahousemalayalam",
+      "Kannada": "https://www.youtube.com/watch?v=batlahousekannada",
+      "English": "https://www.youtube.com/watch?v=batlahouseenglish"
+    },
+    "recommended": [
+      5,
+      91,
+      11
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Spider-Man: No Way Home",
+    "genre": "Horror, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 42min",
+    "releaseDate": "2023-09-30",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Malayalam",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_29.jpg",
+    "story": "Spider-Man: No Way Home is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=spider-man:nowayhometamil",
+      "Telugu": "https://www.youtube.com/watch?v=spider-man:nowayhometelugu",
+      "English": "https://www.youtube.com/watch?v=spider-man:nowayhomeenglish"
+    },
+    "recommended": [
+      88,
+      75,
+      60
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Sooryavanshi",
+    "genre": "Thriller, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 21min",
+    "releaseDate": "2023-05-23",
+    "availableLanguages": [
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_30.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=sooryavanshimalayalam",
+      "English": "https://www.youtube.com/watch?v=sooryavanshienglish",
+      "Telugu": "https://www.youtube.com/watch?v=sooryavanshitelugu"
+    },
+    "recommended": [
+      3,
+      72,
+      64
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Gadar 2",
+    "genre": "Drama, Romance",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 42min",
+    "releaseDate": "2023-04-03",
+    "availableLanguages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_31.jpg",
+    "story": "Gadar 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=gadar2kannada",
+      "Telugu": "https://www.youtube.com/watch?v=gadar2telugu",
+      "Malayalam": "https://www.youtube.com/watch?v=gadar2malayalam"
+    },
+    "recommended": [
+      84,
+      43,
+      83
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Singham",
+    "genre": "Action, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 41min",
+    "releaseDate": "2023-10-21",
+    "availableLanguages": [
+      "Malayalam",
+      "English",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_32.jpg",
+    "story": "Singham is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=singhamenglish",
+      "Malayalam": "https://www.youtube.com/watch?v=singhammalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=singhamhindi"
+    },
+    "recommended": [
+      37,
+      11,
+      89
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Leo",
+    "genre": "Thriller, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 40min",
+    "releaseDate": "2022-04-22",
+    "availableLanguages": [
+      "Malayalam",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_33.jpg",
+    "story": "Leo is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=leotelugu",
+      "Hindi": "https://www.youtube.com/watch?v=leohindi",
+      "Tamil": "https://www.youtube.com/watch?v=leotamil"
+    },
+    "recommended": [
+      19,
+      42,
+      10
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Batman Begins",
+    "genre": "Thriller, Romance",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 29min",
+    "releaseDate": "2020-03-02",
+    "availableLanguages": [
+      "English",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_34.jpg",
+    "story": "Batman Begins is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=batmanbeginskannada",
+      "Malayalam": "https://www.youtube.com/watch?v=batmanbeginsmalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=batmanbeginstelugu"
+    },
+    "recommended": [
+      82,
+      30,
+      92
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Kaabil",
+    "genre": "Romance, Drama",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 54min",
+    "releaseDate": "2021-04-25",
+    "availableLanguages": [
+      "Hindi",
+      "English",
+      "Malayalam",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_35.jpg",
+    "story": "Kaabil is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=kaabiltamil",
+      "Malayalam": "https://www.youtube.com/watch?v=kaabilmalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=kaabilhindi"
+    },
+    "recommended": [
+      68,
+      44,
+      86
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Inception",
+    "genre": "Mystery, Drama",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 44min",
+    "releaseDate": "2022-05-10",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_36.jpg",
+    "story": "Inception is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=inceptiontelugu",
+      "Kannada": "https://www.youtube.com/watch?v=inceptionkannada",
+      "English": "https://www.youtube.com/watch?v=inceptionenglish"
+    },
+    "recommended": [
+      48,
+      11,
+      44
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Black Panther",
+    "genre": "Sci-Fi, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 37min",
+    "releaseDate": "2020-03-03",
+    "availableLanguages": [
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_37.jpg",
+    "story": "Black Panther is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=blackpantherenglish",
+      "Hindi": "https://www.youtube.com/watch?v=blackpantherhindi",
+      "Tamil": "https://www.youtube.com/watch?v=blackpanthertamil"
+    },
+    "recommended": [
+      65,
+      38,
+      83
+    ]
+  },
+  {
+    "id": 38,
+    "title": "The Dark Knight",
+    "genre": "Comedy, Drama",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 30min",
+    "releaseDate": "2023-04-12",
+    "availableLanguages": [
+      "Malayalam",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_38.jpg",
+    "story": "The Dark Knight is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=thedarkknightkannada",
+      "Hindi": "https://www.youtube.com/watch?v=thedarkknighthindi",
+      "Malayalam": "https://www.youtube.com/watch?v=thedarkknightmalayalam"
+    },
+    "recommended": [
+      32,
+      38,
+      48
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Avengers: Endgame",
+    "genre": "Sci-Fi, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 20min",
+    "releaseDate": "2024-12-29",
+    "availableLanguages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_39.jpg",
+    "story": "Avengers: Endgame is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=avengers:endgamehindi",
+      "Malayalam": "https://www.youtube.com/watch?v=avengers:endgamemalayalam",
+      "English": "https://www.youtube.com/watch?v=avengers:endgameenglish"
+    },
+    "recommended": [
+      57,
+      25,
+      29
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Sooryavanshi",
+    "genre": "Thriller, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 28min",
+    "releaseDate": "2021-05-13",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_40.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=sooryavanshienglish",
+      "Tamil": "https://www.youtube.com/watch?v=sooryavanshitamil",
+      "Kannada": "https://www.youtube.com/watch?v=sooryavanshikannada"
+    },
+    "recommended": [
+      96,
+      12,
+      34
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Shershaah",
+    "genre": "Drama, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 43min",
+    "releaseDate": "2022-04-23",
+    "availableLanguages": [
+      "Telugu",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_41.jpg",
+    "story": "Shershaah is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=shershaahtamil",
+      "Malayalam": "https://www.youtube.com/watch?v=shershaahmalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=shershaahtelugu"
+    },
+    "recommended": [
+      99,
+      71,
+      51
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Tenet",
+    "genre": "Comedy, Romance",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 24min",
+    "releaseDate": "2021-04-09",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Tamil",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_42.jpg",
+    "story": "Tenet is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=tenethindi",
+      "English": "https://www.youtube.com/watch?v=tenetenglish",
+      "Tamil": "https://www.youtube.com/watch?v=tenettamil"
+    },
+    "recommended": [
+      49,
+      68,
+      27
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Beast",
+    "genre": "Comedy, Thriller",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 25min",
+    "releaseDate": "2021-10-16",
+    "availableLanguages": [
+      "Kannada",
+      "Malayalam",
+      "Tamil",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_43.jpg",
+    "story": "Beast is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=beasttelugu",
+      "Kannada": "https://www.youtube.com/watch?v=beastkannada",
+      "Malayalam": "https://www.youtube.com/watch?v=beastmalayalam"
+    },
+    "recommended": [
+      67,
+      48,
+      81
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Bhool Bhulaiyaa 2",
+    "genre": "Action, Thriller",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 33min",
+    "releaseDate": "2020-07-24",
+    "availableLanguages": [
+      "Kannada",
+      "Tamil",
+      "Hindi",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_44.jpg",
+    "story": "Bhool Bhulaiyaa 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2malayalam",
+      "Hindi": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2hindi",
+      "Kannada": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2kannada"
+    },
+    "recommended": [
+      19,
+      69,
+      73
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Pushpa",
+    "genre": "Action, Drama",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 20min",
+    "releaseDate": "2022-04-25",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_45.jpg",
+    "story": "Pushpa is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=pushpatelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=pushpamalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=pushpahindi"
+    },
+    "recommended": [
+      2,
+      98,
+      26
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Bhool Bhulaiyaa 2",
+    "genre": "Horror, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 48min",
+    "releaseDate": "2023-07-02",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_46.jpg",
+    "story": "Bhool Bhulaiyaa 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2malayalam",
+      "Hindi": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2hindi",
+      "Kannada": "https://www.youtube.com/watch?v=bhoolbhulaiyaa2kannada"
+    },
+    "recommended": [
+      86,
+      21,
+      85
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Sooryavanshi",
+    "genre": "Mystery, Thriller",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 50min",
+    "releaseDate": "2023-06-18",
+    "availableLanguages": [
+      "Malayalam",
+      "Tamil",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_47.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=sooryavanshitamil",
+      "Hindi": "https://www.youtube.com/watch?v=sooryavanshihindi",
+      "Telugu": "https://www.youtube.com/watch?v=sooryavanshitelugu"
+    },
+    "recommended": [
+      61,
+      20,
+      72
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Kaabil",
+    "genre": "Mystery, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 35min",
+    "releaseDate": "2024-01-04",
+    "availableLanguages": [
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_48.jpg",
+    "story": "Kaabil is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=kaabilenglish",
+      "Telugu": "https://www.youtube.com/watch?v=kaabiltelugu",
+      "Tamil": "https://www.youtube.com/watch?v=kaabiltamil"
+    },
+    "recommended": [
+      46,
+      22,
+      90
+    ]
+  },
+  {
+    "id": 49,
+    "title": "The Dark Knight",
+    "genre": "Drama, Thriller",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 30min",
+    "releaseDate": "2023-09-06",
+    "availableLanguages": [
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_49.jpg",
+    "story": "The Dark Knight is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=thedarkknightkannada",
+      "Malayalam": "https://www.youtube.com/watch?v=thedarkknightmalayalam",
+      "English": "https://www.youtube.com/watch?v=thedarkknightenglish"
+    },
+    "recommended": [
+      62,
+      99,
+      1
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Tenet",
+    "genre": "Sci-Fi, Romance",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 55min",
+    "releaseDate": "2023-07-27",
+    "availableLanguages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_50.jpg",
+    "story": "Tenet is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=tenetenglish",
+      "Telugu": "https://www.youtube.com/watch?v=tenettelugu",
+      "Kannada": "https://www.youtube.com/watch?v=tenetkannada"
+    },
+    "recommended": [
+      9,
+      72,
+      92
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Raees",
+    "genre": "Thriller, Comedy",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 44min",
+    "releaseDate": "2023-05-20",
+    "availableLanguages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_51.jpg",
+    "story": "Raees is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=raeeskannada",
+      "Telugu": "https://www.youtube.com/watch?v=raeestelugu",
+      "English": "https://www.youtube.com/watch?v=raeesenglish"
+    },
+    "recommended": [
+      14,
+      21,
+      10
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Sooryavanshi",
+    "genre": "Sci-Fi, Horror",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 23min",
+    "releaseDate": "2020-07-11",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_52.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=sooryavanshihindi",
+      "Kannada": "https://www.youtube.com/watch?v=sooryavanshikannada",
+      "English": "https://www.youtube.com/watch?v=sooryavanshienglish"
+    },
+    "recommended": [
+      15,
+      62,
+      51
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Raees",
+    "genre": "Comedy, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 44min",
+    "releaseDate": "2021-05-24",
+    "availableLanguages": [
+      "Hindi",
+      "English",
+      "Telugu",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_53.jpg",
+    "story": "Raees is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=raeestelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=raeesmalayalam",
+      "Kannada": "https://www.youtube.com/watch?v=raeeskannada"
+    },
+    "recommended": [
+      7,
+      31,
+      10
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Thor: Ragnarok",
+    "genre": "Action, Mystery",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 37min",
+    "releaseDate": "2021-11-26",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_54.jpg",
+    "story": "Thor: Ragnarok is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=thor:ragnaroktamil",
+      "Hindi": "https://www.youtube.com/watch?v=thor:ragnarokhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=thor:ragnarokmalayalam"
+    },
+    "recommended": [
+      60,
+      71,
+      28
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Guardians of the Galaxy",
+    "genre": "Action, Mystery",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 47min",
+    "releaseDate": "2021-04-18",
+    "availableLanguages": [
+      "Malayalam",
+      "Kannada",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_55.jpg",
+    "story": "Guardians of the Galaxy is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=guardiansofthegalaxyhindi",
+      "Tamil": "https://www.youtube.com/watch?v=guardiansofthegalaxytamil",
+      "Kannada": "https://www.youtube.com/watch?v=guardiansofthegalaxykannada"
+    },
+    "recommended": [
+      37,
+      18,
+      88
+    ]
+  },
+  {
+    "id": 56,
+    "title": "3 Idiots",
+    "genre": "Drama, Horror",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 20min",
+    "releaseDate": "2023-04-02",
+    "availableLanguages": [
+      "Hindi",
+      "Malayalam",
+      "Tamil",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_56.jpg",
+    "story": "3 Idiots is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=3idiotsmalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=3idiotstelugu",
+      "English": "https://www.youtube.com/watch?v=3idiotsenglish"
+    },
+    "recommended": [
+      100,
+      24,
+      4
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Drishyam 2",
+    "genre": "Thriller, Sci-Fi",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 37min",
+    "releaseDate": "2023-02-14",
+    "availableLanguages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_57.jpg",
+    "story": "Drishyam 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=drishyam2malayalam",
+      "Kannada": "https://www.youtube.com/watch?v=drishyam2kannada",
+      "Hindi": "https://www.youtube.com/watch?v=drishyam2hindi"
+    },
+    "recommended": [
+      77,
+      7,
+      91
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Batla House",
+    "genre": "Action, Comedy",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 32min",
+    "releaseDate": "2023-02-03",
+    "availableLanguages": [
+      "Malayalam",
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_58.jpg",
+    "story": "Batla House is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=batlahousekannada",
+      "English": "https://www.youtube.com/watch?v=batlahouseenglish",
+      "Tamil": "https://www.youtube.com/watch?v=batlahousetamil"
+    },
+    "recommended": [
+      24,
+      89,
+      33
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Raazi",
+    "genre": "Horror, Thriller",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "1h 23min",
+    "releaseDate": "2022-08-20",
+    "availableLanguages": [
+      "Hindi",
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_59.jpg",
+    "story": "Raazi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=raazimalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=raazihindi",
+      "Telugu": "https://www.youtube.com/watch?v=raazitelugu"
+    },
+    "recommended": [
+      93,
+      94,
+      90
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Interstellar",
+    "genre": "Drama, Horror",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 34min",
+    "releaseDate": "2020-09-06",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_60.jpg",
+    "story": "Interstellar is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=interstellarenglish",
+      "Hindi": "https://www.youtube.com/watch?v=interstellarhindi",
+      "Kannada": "https://www.youtube.com/watch?v=interstellarkannada"
+    },
+    "recommended": [
+      91,
+      88,
+      26
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Black Panther",
+    "genre": "Horror, Action",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "2h 53min",
+    "releaseDate": "2022-09-06",
+    "availableLanguages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_61.jpg",
+    "story": "Black Panther is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=blackpantherhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=blackpanthermalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=blackpanthertelugu"
+    },
+    "recommended": [
+      6,
+      48,
+      87
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Uri",
+    "genre": "Horror, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 25min",
+    "releaseDate": "2020-08-25",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada",
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_62.jpg",
+    "story": "Uri is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=urikannada",
+      "Malayalam": "https://www.youtube.com/watch?v=urimalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=uritelugu"
+    },
+    "recommended": [
+      17,
+      75,
+      43
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Pathaan",
+    "genre": "Romance, Action",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 52min",
+    "releaseDate": "2024-04-07",
+    "availableLanguages": [
+      "Malayalam",
+      "English",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_63.jpg",
+    "story": "Pathaan is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=pathaanenglish",
+      "Kannada": "https://www.youtube.com/watch?v=pathaankannada",
+      "Hindi": "https://www.youtube.com/watch?v=pathaanhindi"
+    },
+    "recommended": [
+      29,
+      20,
+      86
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Singham",
+    "genre": "Action, Mystery",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "A",
+    "duration": "2h 33min",
+    "releaseDate": "2022-06-16",
+    "availableLanguages": [
+      "Malayalam",
+      "Kannada",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_64.jpg",
+    "story": "Singham is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=singhamenglish",
+      "Kannada": "https://www.youtube.com/watch?v=singhamkannada",
+      "Telugu": "https://www.youtube.com/watch?v=singhamtelugu"
+    },
+    "recommended": [
+      48,
+      77,
+      70
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Captain Marvel",
+    "genre": "Horror, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 26min",
+    "releaseDate": "2024-03-14",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "English",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_65.jpg",
+    "story": "Captain Marvel is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=captainmarvelmalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=captainmarveltelugu",
+      "Kannada": "https://www.youtube.com/watch?v=captainmarvelkannada"
+    },
+    "recommended": [
+      72,
+      8,
+      68
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Batla House",
+    "genre": "Thriller, Horror",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 36min",
+    "releaseDate": "2020-09-26",
+    "availableLanguages": [
+      "Malayalam",
+      "Kannada",
+      "English",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_66.jpg",
+    "story": "Batla House is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=batlahouseenglish",
+      "Hindi": "https://www.youtube.com/watch?v=batlahousehindi",
+      "Kannada": "https://www.youtube.com/watch?v=batlahousekannada"
+    },
+    "recommended": [
+      6,
+      10,
+      13
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Raees",
+    "genre": "Action, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 40min",
+    "releaseDate": "2022-11-06",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_67.jpg",
+    "story": "Raees is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=raeeshindi",
+      "English": "https://www.youtube.com/watch?v=raeesenglish",
+      "Telugu": "https://www.youtube.com/watch?v=raeestelugu"
+    },
+    "recommended": [
+      83,
+      27,
+      30
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Vikram",
+    "genre": "Sci-Fi, Mystery",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 55min",
+    "releaseDate": "2024-12-24",
+    "availableLanguages": [
+      "Tamil",
+      "English",
+      "Malayalam",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_68.jpg",
+    "story": "Vikram is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=vikrammalayalam",
+      "Kannada": "https://www.youtube.com/watch?v=vikramkannada",
+      "English": "https://www.youtube.com/watch?v=vikramenglish"
+    },
+    "recommended": [
+      100,
+      53,
+      1
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Thor: Ragnarok",
+    "genre": "Action, Comedy",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 54min",
+    "releaseDate": "2020-04-29",
+    "availableLanguages": [
+      "Malayalam",
+      "Hindi",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_69.jpg",
+    "story": "Thor: Ragnarok is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=thor:ragnarokhindi",
+      "Tamil": "https://www.youtube.com/watch?v=thor:ragnaroktamil",
+      "Kannada": "https://www.youtube.com/watch?v=thor:ragnarokkannada"
+    },
+    "recommended": [
+      89,
+      93,
+      99
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Batman Begins",
+    "genre": "Horror, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 26min",
+    "releaseDate": "2023-05-02",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_70.jpg",
+    "story": "Batman Begins is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=batmanbeginsmalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=batmanbeginshindi",
+      "Kannada": "https://www.youtube.com/watch?v=batmanbeginskannada"
+    },
+    "recommended": [
+      18,
+      52,
+      14
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Thor: Ragnarok",
+    "genre": "Mystery, Comedy",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 48min",
+    "releaseDate": "2023-03-24",
+    "availableLanguages": [
+      "Kannada",
+      "English",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_71.jpg",
+    "story": "Thor: Ragnarok is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=thor:ragnaroktelugu",
+      "Hindi": "https://www.youtube.com/watch?v=thor:ragnarokhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=thor:ragnarokmalayalam"
+    },
+    "recommended": [
+      75,
+      49,
+      54
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Spider-Man: No Way Home",
+    "genre": "Thriller, Drama",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 56min",
+    "releaseDate": "2022-03-17",
+    "availableLanguages": [
+      "English",
+      "Kannada",
+      "Malayalam",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_72.jpg",
+    "story": "Spider-Man: No Way Home is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=spider-man:nowayhometelugu",
+      "Tamil": "https://www.youtube.com/watch?v=spider-man:nowayhometamil",
+      "English": "https://www.youtube.com/watch?v=spider-man:nowayhomeenglish"
+    },
+    "recommended": [
+      10,
+      76,
+      37
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Major",
+    "genre": "Drama, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 27min",
+    "releaseDate": "2022-12-19",
+    "availableLanguages": [
+      "Telugu",
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_73.jpg",
+    "story": "Major is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=majortelugu",
+      "Kannada": "https://www.youtube.com/watch?v=majorkannada",
+      "English": "https://www.youtube.com/watch?v=majorenglish"
+    },
+    "recommended": [
+      42,
+      90,
+      87
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Jawan",
+    "genre": "Sci-Fi, Horror",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 23min",
+    "releaseDate": "2023-05-18",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "English",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_74.jpg",
+    "story": "Jawan is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=jawanhindi",
+      "Tamil": "https://www.youtube.com/watch?v=jawantamil",
+      "Malayalam": "https://www.youtube.com/watch?v=jawanmalayalam"
+    },
+    "recommended": [
+      81,
+      8,
+      96
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Sooryavanshi",
+    "genre": "Horror, Romance",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 45min",
+    "releaseDate": "2024-06-21",
+    "availableLanguages": [
+      "Tamil",
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_75.jpg",
+    "story": "Sooryavanshi is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=sooryavanshikannada",
+      "Malayalam": "https://www.youtube.com/watch?v=sooryavanshimalayalam",
+      "Tamil": "https://www.youtube.com/watch?v=sooryavanshitamil"
+    },
+    "recommended": [
+      85,
+      21,
+      19
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Baahubali",
+    "genre": "Action, Romance",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 31min",
+    "releaseDate": "2021-09-21",
+    "availableLanguages": [
+      "Hindi",
+      "English",
+      "Tamil",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_76.jpg",
+    "story": "Baahubali is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=baahubalihindi",
+      "Telugu": "https://www.youtube.com/watch?v=baahubalitelugu",
+      "English": "https://www.youtube.com/watch?v=baahubalienglish"
+    },
+    "recommended": [
+      14,
+      44,
+      78
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Captain Marvel",
+    "genre": "Mystery, Sci-Fi",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 51min",
+    "releaseDate": "2024-11-17",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_77.jpg",
+    "story": "Captain Marvel is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=captainmarveltamil",
+      "Kannada": "https://www.youtube.com/watch?v=captainmarvelkannada",
+      "English": "https://www.youtube.com/watch?v=captainmarvelenglish"
+    },
+    "recommended": [
+      80,
+      25,
+      13
+    ]
+  },
+  {
+    "id": 78,
+    "title": "MS Dhoni",
+    "genre": "Drama, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 32min",
+    "releaseDate": "2023-10-14",
+    "availableLanguages": [
+      "Hindi",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_78.jpg",
+    "story": "MS Dhoni is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=msdhonimalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=msdhonitelugu",
+      "Hindi": "https://www.youtube.com/watch?v=msdhonihindi"
+    },
+    "recommended": [
+      13,
+      60,
+      71
+    ]
+  },
+  {
+    "id": 79,
+    "title": "OMG 2",
+    "genre": "Thriller, Action",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 36min",
+    "releaseDate": "2021-05-22",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_79.jpg",
+    "story": "OMG 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=omg2tamil",
+      "English": "https://www.youtube.com/watch?v=omg2english",
+      "Hindi": "https://www.youtube.com/watch?v=omg2hindi"
+    },
+    "recommended": [
+      53,
+      65,
+      47
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Zindagi Na Milegi Dobara",
+    "genre": "Mystery, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 48min",
+    "releaseDate": "2024-09-11",
+    "availableLanguages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_80.jpg",
+    "story": "Zindagi Na Milegi Dobara is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=zindaginamilegidobarahindi",
+      "English": "https://www.youtube.com/watch?v=zindaginamilegidobaraenglish",
+      "Tamil": "https://www.youtube.com/watch?v=zindaginamilegidobaratamil"
+    },
+    "recommended": [
+      31,
+      26,
+      63
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Raees",
+    "genre": "Mystery, Comedy",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 41min",
+    "releaseDate": "2023-05-07",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_81.jpg",
+    "story": "Raees is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=raeeskannada",
+      "Telugu": "https://www.youtube.com/watch?v=raeestelugu",
+      "Malayalam": "https://www.youtube.com/watch?v=raeesmalayalam"
+    },
+    "recommended": [
+      36,
+      51,
+      98
+    ]
+  },
+  {
+    "id": 82,
+    "title": "RRR",
+    "genre": "Drama, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 47min",
+    "releaseDate": "2020-07-30",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada",
+      "Telugu",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_82.jpg",
+    "story": "RRR is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=rrrtelugu",
+      "Tamil": "https://www.youtube.com/watch?v=rrrtamil",
+      "English": "https://www.youtube.com/watch?v=rrrenglish"
+    },
+    "recommended": [
+      76,
+      56,
+      2
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Drishyam 2",
+    "genre": "Drama, Romance",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 41min",
+    "releaseDate": "2023-05-21",
+    "availableLanguages": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_83.jpg",
+    "story": "Drishyam 2 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      }
+    ],
+    "trailers": {
+      "Kannada": "https://www.youtube.com/watch?v=drishyam2kannada",
+      "Malayalam": "https://www.youtube.com/watch?v=drishyam2malayalam",
+      "Tamil": "https://www.youtube.com/watch?v=drishyam2tamil"
+    },
+    "recommended": [
+      68,
+      90,
+      8
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Uri",
+    "genre": "Drama, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 39min",
+    "releaseDate": "2023-01-12",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_84.jpg",
+    "story": "Uri is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=urienglish",
+      "Hindi": "https://www.youtube.com/watch?v=urihindi",
+      "Telugu": "https://www.youtube.com/watch?v=uritelugu"
+    },
+    "recommended": [
+      58,
+      9,
+      91
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Singham",
+    "genre": "Action, Horror",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 31min",
+    "releaseDate": "2020-11-03",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_85.jpg",
+    "story": "Singham is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=singhamhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=singhammalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=singhamtelugu"
+    },
+    "recommended": [
+      24,
+      57,
+      10
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Batla House",
+    "genre": "Horror, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 57min",
+    "releaseDate": "2020-10-28",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_86.jpg",
+    "story": "Batla House is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=batlahousehindi",
+      "Kannada": "https://www.youtube.com/watch?v=batlahousekannada",
+      "Telugu": "https://www.youtube.com/watch?v=batlahousetelugu"
+    },
+    "recommended": [
+      27,
+      86,
+      82
+    ]
+  },
+  {
+    "id": 87,
+    "title": "83",
+    "genre": "Romance, Action",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 22min",
+    "releaseDate": "2024-05-05",
+    "availableLanguages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_87.jpg",
+    "story": "83 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "photo": "https://image.tmdb.org/t/p/w500/prabhas.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=83hindi",
+      "Tamil": "https://www.youtube.com/watch?v=83tamil",
+      "Malayalam": "https://www.youtube.com/watch?v=83malayalam"
+    },
+    "recommended": [
+      81,
+      82,
+      33
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Interstellar",
+    "genre": "Comedy, Mystery",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 33min",
+    "releaseDate": "2022-09-29",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_88.jpg",
+    "story": "Interstellar is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=interstellartamil",
+      "Hindi": "https://www.youtube.com/watch?v=interstellarhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=interstellarmalayalam"
+    },
+    "recommended": [
+      43,
+      16,
+      89
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Conjuring 3",
+    "genre": "Drama, Mystery",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 58min",
+    "releaseDate": "2024-06-14",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_89.jpg",
+    "story": "Conjuring 3 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=conjuring3tamil",
+      "Telugu": "https://www.youtube.com/watch?v=conjuring3telugu",
+      "English": "https://www.youtube.com/watch?v=conjuring3english"
+    },
+    "recommended": [
+      32,
+      81,
+      12
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Shershaah",
+    "genre": "Action, Drama",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "2h 49min",
+    "releaseDate": "2020-11-11",
+    "availableLanguages": [
+      "Tamil",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_90.jpg",
+    "story": "Shershaah is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=shershaahtelugu",
+      "Tamil": "https://www.youtube.com/watch?v=shershaahtamil",
+      "Kannada": "https://www.youtube.com/watch?v=shershaahkannada"
+    },
+    "recommended": [
+      40,
+      49,
+      17
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Sultan",
+    "genre": "Drama, Mystery",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 36min",
+    "releaseDate": "2020-10-14",
+    "availableLanguages": [
+      "English",
+      "Tamil",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_91.jpg",
+    "story": "Sultan is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=sultantelugu",
+      "Tamil": "https://www.youtube.com/watch?v=sultantamil",
+      "Hindi": "https://www.youtube.com/watch?v=sultanhindi"
+    },
+    "recommended": [
+      78,
+      49,
+      33
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Interstellar",
+    "genre": "Romance, Drama",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "UA",
+    "duration": "2h 41min",
+    "releaseDate": "2024-06-28",
+    "availableLanguages": [
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_92.jpg",
+    "story": "Interstellar is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=interstellartamil",
+      "English": "https://www.youtube.com/watch?v=interstellarenglish",
+      "Hindi": "https://www.youtube.com/watch?v=interstellarhindi"
+    },
+    "recommended": [
+      80,
+      1,
+      62
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Baahubali",
+    "genre": "Horror, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 22min",
+    "releaseDate": "2022-11-17",
+    "availableLanguages": [
+      "Tamil",
+      "Kannada",
+      "Telugu",
+      "English"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_93.jpg",
+    "story": "Baahubali is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      },
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=baahubalihindi",
+      "Malayalam": "https://www.youtube.com/watch?v=baahubalimalayalam",
+      "Telugu": "https://www.youtube.com/watch?v=baahubalitelugu"
+    },
+    "recommended": [
+      25,
+      72,
+      17
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Rocky Aur Rani",
+    "genre": "Horror, Drama",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "A",
+    "duration": "1h 58min",
+    "releaseDate": "2021-02-19",
+    "availableLanguages": [
+      "Tamil",
+      "English",
+      "Kannada",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_94.jpg",
+    "story": "Rocky Aur Rani is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Ranveer Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ranveer.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Tamil": "https://www.youtube.com/watch?v=rockyaurranitamil",
+      "Kannada": "https://www.youtube.com/watch?v=rockyaurranikannada",
+      "English": "https://www.youtube.com/watch?v=rockyaurranienglish"
+    },
+    "recommended": [
+      59,
+      54,
+      73
+    ]
+  },
+  {
+    "id": 95,
+    "title": "83",
+    "genre": "Sci-Fi, Horror",
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "censorRating": "A",
+    "duration": "1h 48min",
+    "releaseDate": "2020-05-10",
+    "availableLanguages": [
+      "Kannada",
+      "Tamil",
+      "Hindi"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_95.jpg",
+    "story": "83 is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      },
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=83malayalam",
+      "English": "https://www.youtube.com/watch?v=83english",
+      "Telugu": "https://www.youtube.com/watch?v=83telugu"
+    },
+    "recommended": [
+      65,
+      81,
+      12
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Major",
+    "genre": "Romance, Sci-Fi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "A",
+    "duration": "2h 32min",
+    "releaseDate": "2022-01-06",
+    "availableLanguages": [
+      "Hindi",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_96.jpg",
+    "story": "Major is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Trisha",
+        "photo": "https://image.tmdb.org/t/p/w500/trisha.jpg"
+      }
+    ],
+    "trailers": {
+      "English": "https://www.youtube.com/watch?v=majorenglish",
+      "Hindi": "https://www.youtube.com/watch?v=majorhindi",
+      "Malayalam": "https://www.youtube.com/watch?v=majormalayalam"
+    },
+    "recommended": [
+      78,
+      51,
+      30
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Major",
+    "genre": "Mystery, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "UA",
+    "duration": "1h 23min",
+    "releaseDate": "2020-12-17",
+    "availableLanguages": [
+      "Telugu",
+      "Malayalam",
+      "Tamil"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_97.jpg",
+    "story": "Major is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/rdj.jpg"
+      },
+      {
+        "name": "Vijay",
+        "photo": "https://image.tmdb.org/t/p/w500/vijay.jpg"
+      }
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/watch?v=majorhindi",
+      "English": "https://www.youtube.com/watch?v=majorenglish",
+      "Telugu": "https://www.youtube.com/watch?v=majortelugu"
+    },
+    "recommended": [
+      3,
+      27,
+      65
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Dunki",
+    "genre": "Comedy, Action",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 27min",
+    "releaseDate": "2023-11-10",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "English",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_98.jpg",
+    "story": "Dunki is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Deepika Padukone",
+        "photo": "https://image.tmdb.org/t/p/w500/deepika.jpg"
+      },
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=dunkimalayalam",
+      "Hindi": "https://www.youtube.com/watch?v=dunkihindi",
+      "Tamil": "https://www.youtube.com/watch?v=dunkitamil"
+    },
+    "recommended": [
+      27,
+      60,
+      86
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Beast",
+    "genre": "Sci-Fi, Mystery",
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "censorRating": "U",
+    "duration": "2h 46min",
+    "releaseDate": "2024-08-04",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "English",
+      "Malayalam"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_99.jpg",
+    "story": "Beast is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Alia Bhatt",
+        "photo": "https://image.tmdb.org/t/p/w500/alia.jpg"
+      },
+      {
+        "name": "Shah Rukh Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/srk.jpg"
+      }
+    ],
+    "trailers": {
+      "Telugu": "https://www.youtube.com/watch?v=beasttelugu",
+      "Tamil": "https://www.youtube.com/watch?v=beasttamil",
+      "Hindi": "https://www.youtube.com/watch?v=beasthindi"
+    },
+    "recommended": [
+      14,
+      97,
+      15
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Doctor Strange",
+    "genre": "Action, Comedy",
+    "formats": [
+      "2D"
+    ],
+    "censorRating": "U",
+    "duration": "1h 49min",
+    "releaseDate": "2020-10-11",
+    "availableLanguages": [
+      "Hindi",
+      "Kannada"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/movie_100.jpg",
+    "story": "Doctor Strange is a gripping film exploring emotions, action, and suspense.",
+    "cast": [
+      {
+        "name": "Nayanthara",
+        "photo": "https://image.tmdb.org/t/p/w500/nayanthara.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/cevans.jpg"
+      }
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/watch?v=doctorstrangemalayalam",
+      "Kannada": "https://www.youtube.com/watch?v=doctorstrangekannada",
+      "English": "https://www.youtube.com/watch?v=doctorstrangeenglish"
+    },
+    "recommended": [
+      10,
+      97,
+      61
+    ]
+  }
+]
